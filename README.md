@@ -1,2 +1,2 @@
 # odin-recipes
-<p>This is a basic HTML document that will create a webpage with links to recipes. I am practicing my skills in HTML and learning to work in Linux using the command line in conjunction with VSCode.<p>
+This is a basic HTML document that will create a webpage with links to recipes. I am practicing my skills in HTML and learning to work in Linux using the command line in conjunction with VSCode.
