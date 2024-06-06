@@ -1,19 +1,26 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1rm;
-    font-weight: 400;
+    font-size: 2rm;
+    font-weight: 500;
+    background-color: #b3d1eb;
 }
 h1, h2 {
     font-weight: 800;
 }
 h1 {
-    font-size: 3rm;
+    font-size: 4rm;
     text-align: center;
 }
 img {
-    align-self: center;
+    text-align: center;
 }
 ul, ol, li {
-    padding: 1rm;
-    margin: .5rm;
+    padding: 1.5rm;
+    margin: 1.5rm;
+}
+a {
+    color: #5151ec;
+    font-size: 3rm;
+    font-weight: 600;
+    text-decoration: none;
 }
