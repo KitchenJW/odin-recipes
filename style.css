@@ -18,13 +18,16 @@ img {
 ul, ol, li {
     padding: 1.5rem;
     margin: 1.5rem;
+    list-style: none;
 }
 a {
     color: #5151ec;
     font-size: 3rem;
     font-weight: 600;
     text-decoration: none;
+    list-style: none;
 }
 p {
     width: 50%;
+    text-wrap: wrap;
 }
