@@ -1,8 +1,8 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
-    font-weight: 500;
-    background-color: #b3d1eb;
+    font-weight: 400;
+    background-color: #d3af80;
     text-align: center;
 }
 h1, h2 {
@@ -17,17 +17,24 @@ img {
 }
 ul, ol, li {
     padding: 1.5rem;
-    margin: 1.5rem;
     list-style: none;
+    text-align: left;
+    margin-left: 32rem;
+    max-width: 60rem;
 }
 a {
     color: #5151ec;
     font-size: 3rem;
-    font-weight: 600;
+    font-weight: 700;
     text-decoration: none;
     list-style: none;
 }
+a:hover {
+    color: #6a2eb8;
+}
 p {
-    width: 50%;
+    text-align: left;
+    margin-left: 52rem;
     text-wrap: wrap;
+    max-width: 60rem;
 }
