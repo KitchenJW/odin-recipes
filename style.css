@@ -1,26 +1,30 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 2rm;
+    font-size: 2rem;
     font-weight: 500;
     background-color: #b3d1eb;
+    text-align: center;
 }
 h1, h2 {
     font-weight: 800;
 }
 h1 {
-    font-size: 4rm;
+    font-size: 4rem;
     text-align: center;
 }
 img {
     text-align: center;
 }
 ul, ol, li {
-    padding: 1.5rm;
-    margin: 1.5rm;
+    padding: 1.5rem;
+    margin: 1.5rem;
 }
 a {
     color: #5151ec;
-    font-size: 3rm;
+    font-size: 3rem;
     font-weight: 600;
     text-decoration: none;
+}
+p {
+    width: 50%;
 }
