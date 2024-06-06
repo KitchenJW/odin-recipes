@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rm;
+    font-weight: 400;
+}
+h1, h2 {
+    font-weight: 800;
+}
+h1 {
+    font-size: 3rm;
+    text-align: center;
+}
+img {
+    align-self: center;
+}
+ul, ol, li {
+    padding: 1rm;
+    margin: .5rm;
+}
