@@ -38,9 +38,14 @@ p {
     text-wrap: wrap;
     max-width: 60rem;
 }
-footer {
+footer a {
     margin: 0;
     padding: 1rem;
+    font-size: 2rem;
+}
+footer {
+    text-align: left;
+    height: 2.5rem;
+    width: 100%;
     background-color: #ffebcd;
-    font-size: 1rem;
 }
