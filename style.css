@@ -38,3 +38,9 @@ p {
     text-wrap: wrap;
     max-width: 60rem;
 }
+footer {
+    margin: 0;
+    padding: 1rem;
+    background-color: #ffebcd;
+    font-size: 1rem;
+}
