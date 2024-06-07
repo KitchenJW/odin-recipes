@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
@@ -5,44 +9,70 @@ body {
     background-color: #d3af80;
     text-align: center;
 }
-h1, h2 {
+
+h1,
+h2 {
     font-weight: 800;
 }
+
 h1 {
     font-size: 4rem;
     text-align: center;
 }
+
 img {
     text-align: center;
 }
-ul, ol, li {
-    padding: 1.5rem;
-    list-style: none;
+
+.links {
+    width: 20rem;
+    margin: 2rem auto;
     text-align: left;
-    margin-left: 32rem;
-    max-width: 60rem;
 }
+
+.description,
+.ingredients,
+.steps {
+    width: 50rem;
+    text-align: left;
+    margin: 2rem auto;
+    text-wrap: wrap;
+}
+
+ul,
+ol,
+li {
+    padding: 1.5rem 0;
+    text-wrap: wrap;
+}
+
+ul li {
+    list-style: none;
+}
+
 a {
     color: #5151ec;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
     text-decoration: none;
     list-style: none;
 }
+
 a:hover {
     color: #6a2eb8;
 }
+
 p {
     text-align: left;
-    margin-left: 52rem;
     text-wrap: wrap;
-    max-width: 60rem;
 }
+
 footer a {
     margin: 0;
     padding: 1rem;
     font-size: 2rem;
 }
+
 footer {
     text-align: left;
     height: 2.5rem;
